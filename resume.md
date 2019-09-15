@@ -6,22 +6,22 @@ title: resume
 ## Education
 ---
 ### Doctor of Philosophy in Economics (ABD), Expected: Dec 2019
-### American University, Washington DC
+#### American University, Washington DC
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
-
+<br>
 ### Data Science Fellowship, Sep 2019
-### The Flatiron School, Washington DC
-
+#### The Flatiron School, Washington DC
+<br>
 ### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
-### Baruch College, City University of New York, New York, NY
-
+#### Baruch College, City University of New York, New York, NY
+<br>
 ### Master of Arts in Politics, May 2006
-### The New School for Social Research, New York, NY<br>
+#### The New School for Social Research, New York, NY
 Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
-
+<br>
 ### Bachelor of Arts in Economics and Political Science, May 2003
-### San Francisco State University, San Francisco, CA  
+#### San Francisco State University, San Francisco, CA  
 
 <br>
 ## Professional Experience
