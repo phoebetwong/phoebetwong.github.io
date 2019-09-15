@@ -4,23 +4,23 @@ title: resume
 ---
 ## Education
 ---
-### Doctor of Philosophy in Economics (ABD), Expected: December 2019
-American University, Washington DC<br>
+### Doctor of Philosophy in Economics (ABD), Expected: Dec 2019
+#### American University, Washington DC
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
 
 ### Data Science Fellowship, Sep 2019
-The Flatiron School, Washington DC
+#### The Flatiron School, Washington DC
 
 ### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
-Baruch College, City University of New York, New York, NY
+#### Baruch College, City University of New York, New York, NY
 
 ### Master of Arts in Politics, May 2006
-The New School for Social Research, New York, NY<br>
+#### The New School for Social Research, New York, NY<br>
 Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
 
 ### Bachelor of Arts in Economics and Political Science, May 2003
-San Francisco State University, San Francisco, CA  
+#### San Francisco State University, San Francisco, CA  
 
 <br>
 ## Professional Experience
@@ -47,9 +47,9 @@ San Francisco State University, San Francisco, CA
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
 - Compiled and updated a fiscal database of all Europe and Central Asia (ECA) client countries through collaboration with the World Bank country offices
 -	Analyzed macro and financial indicators in the ECA region for Euro-zone crisis monitoring
--	Supported senior staffs in drafting reports on recent public finance developments, fiscal implications of the 2008-09 financial crisis, and medium-term fiscal projections in ECA countries
+-	Supported senior staffs in drafting reports on recent public finance developments, fiscal implications of the 2008-09 financial crisis, and medium-term fiscal projections in ECA countries<br>
 *Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
-- Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal
+- Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal<br>
 *Consultant, Latin America & the Caribbean, Financial Management Unit*
 - Authored a grant proposal for a regional study on public financial management reforms and the quality of public service provision in the Latin America & the Caribbean region
 
