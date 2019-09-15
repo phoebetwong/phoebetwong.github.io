@@ -29,7 +29,7 @@ texture:
   title: Phoebe Wong
   tagline: Economist & Data Scientist
   date_format: "%b %-d, %Y"
-  style: ruby
+  style: red
   showNav: true
   social_links:
     twitter: pheeebster
