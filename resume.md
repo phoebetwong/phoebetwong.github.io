@@ -6,22 +6,22 @@ title: resume
 ## Education
 ---
 ### Doctor of Philosophy in Economics (ABD), Expected: Dec 2019
-#### American University, Washington DC
+American University, Washington DC<br>
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
 <br>
 ### Data Science Fellowship, Sep 2019
-#### The Flatiron School, Washington DC
+The Flatiron School, Washington DC
 <br>
 ### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
-#### Baruch College, City University of New York, New York, NY
+Baruch College, City University of New York, New York, NY
 <br>
 ### Master of Arts in Politics, May 2006
-#### The New School for Social Research, New York, NY
+The New School for Social Research, New York, NY<br>
 Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
 <br>
 ### Bachelor of Arts in Economics and Political Science, May 2003
-#### San Francisco State University, San Francisco, CA  
+San Francisco State University, San Francisco, CA  
 
 <br>
 ## Professional Experience
@@ -45,6 +45,7 @@ Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
 - Maintained relationships with experts in other committees, federal agencies, and think tanks
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
+<br>
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
 - Compiled and updated a fiscal database of all Europe and Central Asia (ECA) client countries through collaboration with the World Bank country offices
 -	Analyzed macro and financial indicators in the ECA region for Euro-zone crisis monitoring
