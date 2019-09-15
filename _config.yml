@@ -1,0 +1,37 @@
+name: Phoebe Wong
+title: Phoebe Wong
+url: https://phoebetwong.github.io
+baseurl: ""
+show_excerpts: true
+github_username: phoebetwong
+description: Econ PhD Candidate @ American University; Data Science Fellow @ Flatiron School; Finance Director @ EqualCitizens.US
+author: Phoebe Wong
+email: phoebe.t.wong@gmail.com
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+remote_theme: thelehhman/texture
+#theme: texture
+
+plugins:
+  - "disqus-for-jekyll"
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - resume.md
+  - blog/index.html
+  - index.html
+
+sass:
+  sass_dir: _sass
+
+texture:
+  title: Phoebe Wong
+  tagline: Economist & Data Scientist
+  date_format: "%b %-d, %Y"
+  style: red
+  showNav: true
+  social_links:
+    twitter: pheeebster
+    github:  phoebetwong
+    linkedIn: in/phoebe-wong-18a81147/ # format: locale/username
