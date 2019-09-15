@@ -1,18 +1,29 @@
 ---
-layout: resume
-title: Resume
+layout: page
+title: resume
 ---
-Data scientist and researcher with a background in Computer Science and Econometrics. Loves building bespoke machine learning models designed to inform business actions. Enjoys learning, experimentation, and building things.
-
 ## Education
 ---
 <br>
-### MASTER IN PUBLIC ADMINISTRATION in INTERNATIONAL DEVELOPMENT 	 (2016)
-Harvard Kennedy School of Government, MA<br>
-*econometrics, macroeconomics, microeconomics, data science, statistics, machine learning*
+### Doctor of Philosophy in Economics (ABD), Expected: December 2019
+American University, Washington DC<br>
+Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
+Dissertation Title: Essays on special interest influence and fiscal policies
 
-###  BACHELOR OF ENGINEERING (ELEC.) /BACHELOR OF SCIENCE (COMP.) (Hons) 	2004
-University of Melbourne, Australia
+### Data Science Fellowship, Sep 2019
+The Flatiron School, Washington DC
+
+### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
+Baruch College, City University of New York, New York, NY
+
+### Master of Arts in Politics, May 2006
+The New School for Social Research, New York, NY
+Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
+
+### Bachelor of Arts in Economics and Political Science, May 2003
+San Francisco State University, San Francisco, CA  
+
+
 
 **Tools:** Python (incl. pymc3, pytorch, pyspark), R, Stata, Scala, AWS/EC2, DataBricks<br>
 **Skills:** Bayesian Inference, Optimization, Causal Inference, Statistical modelling, Machine Learning, Econometrics.
