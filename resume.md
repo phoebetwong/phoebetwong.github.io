@@ -4,7 +4,6 @@ title: resume
 ---
 ## Education
 ---
-<br>
 ### Doctor of Philosophy in Economics (ABD), Expected: December 2019
 American University, Washington DC<br>
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
@@ -17,38 +16,34 @@ The Flatiron School, Washington DC
 Baruch College, City University of New York, New York, NY
 
 ### Master of Arts in Politics, May 2006
-The New School for Social Research, New York, NY
+The New School for Social Research, New York, NY<br>
 Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
 
 ### Bachelor of Arts in Economics and Political Science, May 2003
 San Francisco State University, San Francisco, CA  
 
-
-
-**Tools:** Python (incl. pymc3, pytorch, pyspark), R, Stata, Scala, AWS/EC2, DataBricks<br>
-**Skills:** Bayesian Inference, Optimization, Causal Inference, Statistical modelling, Machine Learning, Econometrics.
-
-<br>
-## Experience
+## Professional Experience
 ---
-<br>
+### Equal Citizens, Washington DC
+*Finance Director, Apr 2019 - present*
+*Executive Director, Apr 2017 - Mar 2019*
+- Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through various election reform litigation and education projects  
+- Managed a team of 6 core staffs and an annual budget of over half a million USD
+- Performed various executive tasks: managing staffs, consultants, and volunteers to implement a wide variety of projects; IRS/legal compliance; budgeting and fundraising; public relations
 
-### Senior Data Scientist (QuantumBlack, McKinsey & Company)
-*Cambridge, MA (Sep 2018 - current)*
-- **Pharma** - Mined electronic medical records to understand causes of patient switching behavior. Analytics was used to improve targeting for various marketing channels.  
-- **Disaster Recover** - Developed Monte Carlo models to quantify uncertainty in key milestones to inform mitigation strategies. Models were used to better understand possible states of the world prepare contingency plans.
-- **[IN PROGRESS] Chemical manufacturing** - Identified root cause of variability in production yields. Identified levers that can used to improve yield. Refined R&D process through principled exploration using Bayesian optimization.
-- **Internal R&D** - Contributed to an internal package for causal inference using Bayesian Networks.
+### Joint Economic Committee, United States Congress, Washington DC
+*Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*
+*Economist, Democratic Staff, May 2015 - Jun 2016*
 
-### Graduate Research Fellow (Centre for International Development)
-*Cambridge, MA (Nov 2016 - Aug 2018)*
+-	Advised Members of Congress and staffs on macroeconomic, fiscal, and monetary policy issues
+-	Produced reports on various federal policies and legislative proposals
+-	Analyzed key U.S. and global macroeconomic indicators for periodic economic outlook
+- Wrote and edited speeches, hearing statements, press releases for the Ranking Member
+- Prepared briefing materials and coordinated with expert witnesses for congressional hearings
+- Maintained relationships with experts in other committees, federal agencies, and think tanks
 
--	**Developed Machine Learning models** to identify export sector growth opportunities at sub-national level in Colombia.
--	Built **collaborative filtering models** to predict rural agricultural diversification and recommended possible areas for investment in Colombia.
--	**Used Collaborative Filtering and network analysis** to understand patterns and predict changes in global tourism using credit card transactions data.
-
-### Team Member/Economist  (Office of the Chief Economic Advisor, Ministry of Finance)
-*New Delhi, India (June 2015 – Aug 2015 / Dec 2015 – Feb 2016)*
+### The World Bank Group, Washington DC
+*Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit, *
 
 - **Contributing writer for the 2016 Economic Survey** – Conducted analysis and wrote the chapter on fertilizer subsidy in the 2016 Indian Economic Survey.
 -	**Policy reform for fertilizer** – Demonstrated how current policy leads to shortages and black markets. Worked with Ministry of Fertilizer & Chemicals to design a new policy that is was presented to the cabinet.
