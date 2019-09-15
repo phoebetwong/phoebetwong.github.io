@@ -6,7 +6,7 @@ title: resume
 ---
 ### Doctor of Philosophy in Economics (ABD), Expected: December 2019
 American University, Washington DC<br>
-Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
+Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
 
 ### Data Science Fellowship, Sep 2019
@@ -22,17 +22,18 @@ Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
 ### Bachelor of Arts in Economics and Political Science, May 2003
 San Francisco State University, San Francisco, CA  
 
+<br>
 ## Professional Experience
 ---
-### Equal Citizens, Washington DC
-*Finance Director, Apr 2019 - present*
+### Equal Citizens, Washington DC, Apr 2017 - present
+*Finance Director, Apr 2019 - present*<br>
 *Executive Director, Apr 2017 - Mar 2019*
 - Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through various election reform litigation and education projects  
 - Managed a team of 6 core staffs and an annual budget of over half a million USD
 - Performed various executive tasks: managing staffs, consultants, and volunteers to implement a wide variety of projects; IRS/legal compliance; budgeting and fundraising; public relations
 
-### Joint Economic Committee, United States Congress, Washington DC
-*Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*
+### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
+*Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*<br>
 *Economist, Democratic Staff, May 2015 - Jun 2016*
 
 -	Advised Members of Congress and staffs on macroeconomic, fiscal, and monetary policy issues
@@ -42,39 +43,61 @@ San Francisco State University, San Francisco, CA
 - Prepared briefing materials and coordinated with expert witnesses for congressional hearings
 - Maintained relationships with experts in other committees, federal agencies, and think tanks
 
-### The World Bank Group, Washington DC
-*Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit, *
+### The World Bank Group, Washington DC, Nov 2011 - May 2015
+*Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
+- Compiled and updated a fiscal database of all Europe and Central Asia (ECA) client countries through collaboration with the World Bank country offices
+-	Analyzed macro and financial indicators in the ECA region for Euro-zone crisis monitoring
+-	Supported senior staffs in drafting reports on recent public finance developments, fiscal implications of the 2008-09 financial crisis, and medium-term fiscal projections in ECA countries
+*Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
+- Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal
+*Consultant, Latin America & the Caribbean, Financial Management Unit*
+- Authored a grant proposal for a regional study on public financial management reforms and the quality of public service provision in the Latin America & the Caribbean region
 
-- **Contributing writer for the 2016 Economic Survey** – Conducted analysis and wrote the chapter on fertilizer subsidy in the 2016 Indian Economic Survey.
--	**Policy reform for fertilizer** – Demonstrated how current policy leads to shortages and black markets. Worked with Ministry of Fertilizer & Chemicals to design a new policy that is was presented to the cabinet.
--	**Created analytics on social and economic development** – Analysed recently released SECC census data to highlight variation in various metrics of welfare in India for presentation to the Finance Minister.
+### American University, Washington DC, Aug 2009 - May 2012
+- **Instructor:** Applied Macroeconometrics II: STATA Lab (Graduate); Introduction to Econometrics: STATA Lab (Undergraduate)
+- **Teaching assistant:** Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
 
-### Senior Associate, Global Markets Team (Clinton Health Access Initiative)
-*sub-Saharan Africa (Aug 2012 – Aug 2014)*
+### ABC Global Systems Inc, New York NY, Apr 2006 - Mar 2009
+*Budget Analyst*
+-	Monitored cash flow data from payment processing accounts ~$200 million USD per annum
+- Developed management tools to measure and analyze financial and operational information: financial ratios; key performance indicators; sales performance monitoring; product pricing
+- Generated pro-forma financial statement as well as detailed budget, profitability and growth projections to facilitate executive-level decision making and enforce budgeting compliances
 
-- **Modelled the HIV diagnostics** - CD4, viral load and EID (early infant diagnosis) - global markets scenarios including size, projected growth, and segmentation. These models were used to identify market opportunities and negotiate pricing.
-- **Negotiated lowered pricing** with leading diagnostics manufacturers for viral load testing in sub-Saharan Africa that lead to a deal that will save $150 mil over 5 years.
-- **Assisted 7 countries in sub-Saharan Africa** with rational selection and deployment of new diagnostic products. Helped the ministries of health understand the gaps in country’s diagnostic coverage and develop optimal product deployment strategies.
-
-### Access to medicines/UNITAID Analyst (Clinton Health Access Initiative)
-*Kampala, Uganda (Jul 2011 – Aug 2012)*
-
--	**Increased uptake of a new drug, Atazanavir/Ritonavir (ATV/r)** by 14% in one quarter by driving policy change at Ministry of Health and assisting major implementation partners with the transition.
-- **Analysed consumption and issues data to forecast demand** for paediatric and second line anti-retroviral medications (ARVs) in country to determine national need for ARVs.
-- On behalf of the Ministry of Health, **performed a quantification of the national need** for all critical lab reagents and consumables to inform national diagnostic budget.
-
-### Manager – Technology Consulting (Accenture Pty. Ltd)
-*Melbourne, Australia (Mar 2005 – Jul 2011)*
-
--	**Analysed business and technical barriers, and designed solutions** for numerous organizations in public and private sectors including Commonwealth Bank of Australia, Telstra and the Australia Tax Office.
--	**Managed large budgets and lead teams** up to 22 people to deliver on tight deadlines.
+### United Nations Children’s Fund (UNICEF), New York NY, Jun 2005 - Dec 2005
+*Research Assistant Intern, Global Policy Section, Economics and Social Policy Unit*
+-	Supported Senior Programme Officers in policy analyses for the State of the World’s Children and other UNICEF companion publications using child poverty data
+-	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries
 
 <br>
-## Publications and Presentations
+## Awards
 ---
+- Data Science Fellowship, The Flatiron School, Washington DC, Summer 2019 – Fall 2019
+-	Graduate Fellowship, American University, Washington DC, Fall 2009 – Spring 2012
+-	Graduate Scholarship, New School for Social Research, New York NY, Fall 2003 – Spring 2006  
+
 <br>
-- Redesigning India's Urea Policy, Harvard Kennedy School, MPA/ID Final Capstone Paper
--	Economic survey of India, Ministry of Finance, February 2016
--	An overview of the antiretroviral market, Current Opinion in HIV/AIDS, November 2013 - Volume 8 - Issue 6
--	HIV Testing – Market Analysis, African Society for Laboratory Medicine, Cape Town, 2012
--	Adaptive Clustering for Network Intrusion Detection, PAKDD 2004: 255-259
+## Publications
+---
+- Phoebe Wong and Robert Bennett (2019), “Everything a Data Scientist Should Know About Data Management,” Towards Data Science.
+-	Phoebe Wong (2019), “Predicting vs. Explaining,” Towards Data Science.
+-	Phoebe Wong and Adam Eichen (2018), “Russian indictments show that the US needs federal oversight of election security,” TechCrunch.
+-	Joint Economic Committee (2016), “Federal Investment in U.S. Legacy Transit Systems.”
+-	Joint Economic Committee (2016), “The 2016 Joint Economic Report, Minority View,” Chapter 3, The Effect of the Global Economy.
+- Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the properties of child poverty indicators in various socioeconomic contexts,” UNICEF–DPP Working Paper Series, New York.
+
+<br>
+## Invited Presentations
+---
+- The Case for Debt-Financing Surface Transportation Infrastructure Investments at the Federal Level in the 115th U.S. Congress,” The Association of University Business and Economic Researchers Fall Conference, Fayetteville, Arkansas, October 25, 2016.
+
+<br>
+## Skills
+---
+- Proficient in Python (scikit-learn, statsmodels, XGBoost, PyTorch, Word2vec, Beautiful Soup), SQL, AWS/SageMaker, STATA, EViews, MATLAB, LaTeX, SPSS, and MS Office Suites
+-	Working knowledge in SAS, R, Bloomberg Terminal, WordPress, MATHEMATICA, AutoCAD, Pro/ENGINEER, and LexisNexis
+-	Completed a 3-year university teaching certificate program “Greenberg Seminars on Effective University Teaching” at American University
+
+<br>
+## Languages
+---
+- Native in English and Cantonese. Fluent in Mandarin.
