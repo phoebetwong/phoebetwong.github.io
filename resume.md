@@ -45,15 +45,16 @@ San Francisco State University, San Francisco, CA
 - Maintained relationships with experts in other committees, federal agencies, and think tanks
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
-<br>
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
 - Compiled and updated a fiscal database of all Europe and Central Asia (ECA) client countries through collaboration with the World Bank country offices
 -	Analyzed macro and financial indicators in the ECA region for Euro-zone crisis monitoring
 -	Supported senior staffs in drafting reports on recent public finance developments, fiscal implications of the 2008-09 financial crisis, and medium-term fiscal projections in ECA countries<br>
 <br>
+
 *Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
 - Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal<br>
 <br>
+
 *Consultant, Latin America & the Caribbean, Financial Management Unit*
 - Authored a grant proposal for a regional study on public financial management reforms and the quality of public service provision in the Latin America & the Caribbean region
 
