@@ -32,6 +32,7 @@ San Francisco State University, San Francisco, CA
 - Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through various election reform litigation and education projects  
 - Managed a team of 6 core staffs and an annual budget of over half a million USD
 - Performed various executive tasks: managing staffs, consultants, and volunteers to implement a wide variety of projects; IRS/legal compliance; budgeting and fundraising; public relations
+<br>
 
 ### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
 *Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*<br>
@@ -43,30 +44,32 @@ San Francisco State University, San Francisco, CA
 - Wrote and edited speeches, hearing statements, press releases for the Ranking Member
 - Prepared briefing materials and coordinated with expert witnesses for congressional hearings
 - Maintained relationships with experts in other committees, federal agencies, and think tanks
+<br>
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
 - Compiled and updated a fiscal database of all Europe and Central Asia (ECA) client countries through collaboration with the World Bank country offices
 -	Analyzed macro and financial indicators in the ECA region for Euro-zone crisis monitoring
 -	Supported senior staffs in drafting reports on recent public finance developments, fiscal implications of the 2008-09 financial crisis, and medium-term fiscal projections in ECA countries<br>
-<br>
 
 *Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
 - Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal<br>
-<br>
 
 *Consultant, Latin America & the Caribbean, Financial Management Unit*
 - Authored a grant proposal for a regional study on public financial management reforms and the quality of public service provision in the Latin America & the Caribbean region
+<br>
 
 ### American University, Washington DC, Aug 2009 - May 2012
 - **Instructor:** Applied Macroeconometrics II: STATA Lab (Graduate); Introduction to Econometrics: STATA Lab (Undergraduate)
 - **Teaching assistant:** Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
+<br>
 
 ### ABC Global Systems Inc, New York NY, Apr 2006 - Mar 2009
 *Budget Analyst*
 -	Monitored cash flow data from payment processing accounts ~$200 million USD per annum
 - Developed management tools to measure and analyze financial and operational information: financial ratios; key performance indicators; sales performance monitoring; product pricing
 - Generated pro-forma financial statement as well as detailed budget, profitability and growth projections to facilitate executive-level decision making and enforce budgeting compliances
+<br>
 
 ### United Nations Children’s Fund (UNICEF), New York NY, Jun 2005 - Dec 2005
 *Research Assistant Intern, Global Policy Section, Economics and Social Policy Unit*
