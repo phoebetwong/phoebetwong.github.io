@@ -83,7 +83,7 @@ div.post ul li {
 /* New style to attempt to center page header elements and make image round */
 
 .headerdiv div {
-    text-align: center;
+    text-align: center!important;
     top: 50%;
 }
 
