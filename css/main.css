@@ -79,3 +79,14 @@ div.post ul li {
   width: 150px;
   border-radius: 5em/5em;
 }
+
+/* New style to attempt to center page header elements and make image round */
+
+.headerdiv div {
+    text-align: center;
+    top: 50%;
+}
+
+.headerimg img {
+    border-radius: 50%;
+}
