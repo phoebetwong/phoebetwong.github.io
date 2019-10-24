@@ -67,22 +67,21 @@ header {
 		margin: 0;
 	}
 
-	.social {
+	.social ul {
 		overflow: hidden;
 		list-style-type: none;
 		padding: 0;
 		margin-top: 0;
+		text-align: center!important;
 		
-		ul {
-			text-align: center!important;
-		}
+		
 		
 		li {
 			color: #fff;
 			float: left;
 			i {
 				&:first-child::before {
-					margin-left: 180;
+					margin-left: 0;
 				}
 				@include fluidType(26px, 34px);
 				transition: color .3s;
