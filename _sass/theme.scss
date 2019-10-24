@@ -74,6 +74,7 @@ header {
 		margin-top: 0;
 		li {
 			color: #fff;
+			display: inline-block;
 			/*float: left;*/
 			i {
 				&:first-child::before {
