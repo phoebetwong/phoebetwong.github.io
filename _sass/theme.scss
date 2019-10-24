@@ -72,7 +72,11 @@ header {
 		list-style-type: none;
 		padding: 0px 20px 0px 20px;
 		width: 400px;
-                margin: auto;		
+                margin: auto;
+		
+		ul {
+			text-align: center;
+		
 		
 		
 		li {
@@ -88,10 +92,10 @@ header {
 					color: $gray;
 				}
 			}
-		}
+		} 
 	}
 }
-
+}
 
 .clearfix {
 	clear: both;
