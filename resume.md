@@ -5,7 +5,7 @@ title: resume
 <br>
 ## Education
 ---
-### Doctor of Philosophy in Economics (ABD), Expected: Dec 2019
+### Doctor of Philosophy in Economics (ABD), Expected: May 2020
 American University, Washington DC<br>
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
