@@ -32,7 +32,6 @@ San Francisco State University, San Francisco, CA
 -	Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through high-profile litigation, advocacy and education projects
 -	Manage a network of staffs, consultants, and volunteers and an annual budget of over $500k USD
 -	Lead cross-functional teams to deliver projects within budget and under tight deadlines; develop fundraising and public relations strategies; maintain IRS/legal compliance
-
 <br>
 
 ### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
@@ -43,7 +42,6 @@ San Francisco State University, San Francisco, CA
 -	Produced analytical reports on federal policies and legislative proposals; analyzed key U.S. and global macroeconomic indicators for periodic economic outlook
 -	Prepared briefing materials and coordinated with expert witnesses for congressional hearings; wrote and edited speeches, hearing statements, press releases for the Ranking Member
 -	Maintained relationships with counterparts at the Federal Reserve Board, federal agencies, international organizations, academia, and think tanks
-
 <br>
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
