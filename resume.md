@@ -29,9 +29,10 @@ San Francisco State University, San Francisco, CA
 ### Equal Citizens, Washington DC, Apr 2017 - present
 *Finance Director, Apr 2019 - present*<br>
 *Executive Director, Apr 2017 - Mar 2019*
-- Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through various election reform litigation and education projects  
-- Managed a team of 6 core staffs and an annual budget of over half a million USD
-- Performed various executive tasks: managing staffs, consultants, and volunteers to implement a wide variety of projects; IRS/legal compliance; budgeting and fundraising; public relations
+-	Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through high-profile litigation, advocacy and education projects
+-	Manage a network of staffs, consultants, and volunteers and an annual budget of over $500k USD
+-	Lead cross-functional teams to deliver projects within budget and under tight deadlines; develop fundraising and public relations strategies; maintain IRS/legal compliance
+
 <br>
 
 ### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
@@ -39,11 +40,10 @@ San Francisco State University, San Francisco, CA
 *Economist, Democratic Staff, May 2015 - Jun 2016*
 
 -	Advised Members of Congress and staffs on macroeconomic, fiscal, and monetary policy issues
--	Produced reports on various federal policies and legislative proposals
--	Analyzed key U.S. and global macroeconomic indicators for periodic economic outlook
-- Wrote and edited speeches, hearing statements, press releases for the Ranking Member
-- Prepared briefing materials and coordinated with expert witnesses for congressional hearings
-- Maintained relationships with experts in other committees, federal agencies, and think tanks
+-	Produced analytical reports on federal policies and legislative proposals; analyzed key U.S. and global macroeconomic indicators for periodic economic outlook
+-	Prepared briefing materials and coordinated with expert witnesses for congressional hearings; wrote and edited speeches, hearing statements, press releases for the Ranking Member
+-	Maintained relationships with counterparts at the Federal Reserve Board, federal agencies, international organizations, academia, and think tanks
+
 <br>
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
@@ -88,10 +88,18 @@ San Francisco State University, San Francisco, CA
 ---
 - Phoebe Wong and Robert Bennett (2019), “Everything a Data Scientist Should Know About Data Management,” Towards Data Science.
 -	Phoebe Wong (2019), “Predicting vs. Explaining,” Towards Data Science.
--	Phoebe Wong and Adam Eichen (2018), “Russian indictments show that the US needs federal oversight of election security,” TechCrunch.
+-	Phoebe Wong and Adam Eichen (2018), “Russian Indictments Show that the US Needs Federal Oversight of Election Security,” TechCrunch.
 -	Joint Economic Committee (2016), “Federal Investment in U.S. Legacy Transit Systems.”
 -	Joint Economic Committee (2016), “The 2016 Joint Economic Report, Minority View,” Chapter 3, The Effect of the Global Economy.
-- Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the properties of child poverty indicators in various socioeconomic contexts,” UNICEF–DPP Working Paper Series, New York.
+- Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the Properties of Child Poverty Indicators in Various Socioeconomic Contexts,” UNICEF–DPP Working Paper Series, New York.
+
+<br>
+## Working Papers
+---
+-	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards post-<i>Citizens United</i> with Machine Learning Methods.”
+-	Phoebe Wong (2019), “Deficit Bias, Fiscal Rules, and Special Interest Politics: Would ‘Draining the Swamp’ Reduce Budget Deficit and Public Debt?”
+-	Phoebe Wong (2019), “Are Porkless Federal Grants Less Sticky? Evidence on the Flypaper Effect of Federal Highway Grants Under the Federal Earmark Ban.”
+
 
 <br>
 ## Invited Presentations
@@ -101,7 +109,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Skills
 ---
-- Proficient in Python (scikit-learn, statsmodels, XGBoost, PyTorch, Word2vec, Beautiful Soup), SQL, AWS/SageMaker, STATA, EViews, MATLAB, LaTeX, SPSS, and MS Office Suites
+- Proficient in Python (scikit-learn, statsmodels, XGBoost, PyTorch, Word2vec, Beautiful Soup, Seaborn, Plotly), SQL, GitHub, MongoDB, AWS/SageMaker, STATA, EViews, MATLAB, LaTeX, SPSS, and MS Office Suites
 -	Working knowledge in SAS, R, Bloomberg Terminal, WordPress, MATHEMATICA, AutoCAD, Pro/ENGINEER, and LexisNexis
 -	Completed a 3-year university teaching certificate program “Greenberg Seminars on Effective University Teaching” at American University
 
