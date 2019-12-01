@@ -59,7 +59,7 @@ San Francisco State University, San Francisco, CA
 
 ### American University, Washington DC, Aug 2009 - May 2012
 - **Instructor:** Applied Macroeconometrics II: STATA Lab (Graduate); Introduction to Econometrics: STATA Lab (Undergraduate)
-- **Teaching assistant:** Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
+- **Teaching Assistant:** Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
 <br>
 
 ### ABC Global Systems Inc, New York NY, Apr 2006 - Mar 2009
@@ -86,7 +86,7 @@ San Francisco State University, San Francisco, CA
 ---
 - Phoebe Wong and Robert Bennett (2019), “Everything a Data Scientist Should Know About Data Management,” Towards Data Science.
 -	Phoebe Wong (2019), “Predicting vs. Explaining,” Towards Data Science.
--	Phoebe Wong and Adam Eichen (2018), “Russian Indictments Show that the US Needs Federal Oversight of Election Security,” TechCrunch.
+-	Phoebe Wong and Adam Eichen (2018), “Russian Indictments Show that the U.S. Needs Federal Oversight of Election Security,” TechCrunch.
 -	Joint Economic Committee (2016), “Federal Investment in U.S. Legacy Transit Systems.”
 -	Joint Economic Committee (2016), “The 2016 Joint Economic Report, Minority View,” Chapter 3, The Effect of the Global Economy.
 - Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the Properties of Child Poverty Indicators in Various Socioeconomic Contexts,” UNICEF–DPP Working Paper Series, New York.
@@ -94,7 +94,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Working Papers
 ---
--	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards post-<i>Citizens United</i> with Machine Learning Methods.”
+-	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards Post-<i>Citizens United</i> with Machine Learning Methods.”
 -	Phoebe Wong (2019), “Deficit Bias, Fiscal Rules, and Special Interest Politics: Would ‘Draining the Swamp’ Reduce Budget Deficit and Public Debt?”
 -	Phoebe Wong (2019), “Are Porkless Federal Grants Less Sticky? Evidence on the Flypaper Effect of Federal Highway Grants Under the Federal Earmark Ban.”
 
