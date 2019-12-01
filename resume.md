@@ -58,8 +58,8 @@ San Francisco State University, San Francisco, CA
 <br>
 
 ### American University, Washington DC, Aug 2009 - May 2012
-- **Instructor:** Applied Macroeconometrics II: STATA Lab (Graduate); Introduction to Econometrics: STATA Lab (Undergraduate)
-- **Teaching Assistant:** Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
+- *Instructor:* Applied Macroeconometrics II: STATA Lab (Graduate); Introduction to Econometrics: STATA Lab (Undergraduate)
+- *Teaching Assistant:* Applied Macroeconometrics II (Graduate Time Series & Panel Data Econometrics); Senior Thesis Seminar (Undergraduate); Introduction to Econometrics (Undergraduate); Microeconomics (Undergraduate); Macroeconomics (Undergraduate)  
 <br>
 
 ### ABC Global Systems Inc, New York NY, Apr 2006 - Mar 2009
@@ -94,7 +94,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Working Papers
 ---
--	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards Post-<i>Citizens United</i> with Machine Learning Methods.”
+-	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards Post-*Citizens United* with Machine Learning Methods.”
 -	Phoebe Wong (2019), “Deficit Bias, Fiscal Rules, and Special Interest Politics: Would ‘Draining the Swamp’ Reduce Budget Deficit and Public Debt?”
 -	Phoebe Wong (2019), “Are Porkless Federal Grants Less Sticky? Evidence on the Flypaper Effect of Federal Highway Grants Under the Federal Earmark Ban.”
 
