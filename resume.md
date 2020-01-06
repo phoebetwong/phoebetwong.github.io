@@ -3,6 +3,11 @@ layout: page
 title: resume
 ---
 <br>
+## Professional Summary
+---
+Economist with data science training and 5+ years of management experience in government and nonprofit. Expertise in causal inference methodologies, machine learning models, public finance, and analyzing large datasets with Python.
+---
+<br>
 ## Education
 ---
 ### Doctor of Philosophy in Economics (ABD), Expected: May 2020
@@ -26,8 +31,13 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Professional Experience
 ---
-### Equal Citizens, Washington DC, Apr 2017 - present
-*Finance Director, Apr 2019 - present*<br>
+### Voter Participation Center, Washington DC, Jan 2020 - present
+*Director of Data & Analytics, Apr 2019 - present*<br>
+- Manage and execute a strategic data-driven research program supporting VPC’s mission to increase civic participation of historically underrepresented groups in the U.S.
+<br>
+
+### Equal Citizens, Washington DC, Apr 2017 - Dec 2019
+*Finance Director, Apr 2019 - Dec 2019*<br>
 *Executive Director, Apr 2017 - Mar 2019*
 -	Founded a non-profit organization with Harvard Law School Professor Lawrence Lessig to advance democracy reform in the U.S. through high-profile litigation, advocacy and education projects
 -	Manage a network of staffs, consultants, and volunteers and an annual budget of over $500k USD
@@ -75,8 +85,10 @@ San Francisco State University, San Francisco, CA
 -	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries
 
 <br>
-## Awards
+## Awards & Honors
 ---
+- Most Influential Article of the Year, Towards Data Science, 2019
+- Most Viewed & Shared Blog, KDnuggets, Oct 2019
 - Data Science Fellowship, The Flatiron School, Washington DC, Summer 2019 – Fall 2019
 -	Graduate Fellowship, American University, Washington DC, Fall 2009 – Spring 2012
 -	Graduate Scholarship, New School for Social Research, New York NY, Fall 2003 – Spring 2006  
@@ -92,11 +104,13 @@ San Francisco State University, San Francisco, CA
 - Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the Properties of Child Poverty Indicators in Various Socioeconomic Contexts,” UNICEF–DPP Working Paper Series, New York.
 
 <br>
-## Working Papers
+## Working Papers & Projects
 ---
--	Phoebe Wong (2019), “Estimating the Effects of Independent Political Spending on Federal Contract Awards Post-*Citizens United* with Machine Learning Methods.”
--	Phoebe Wong (2019), “Deficit Bias, Fiscal Rules, and Special Interest Politics: Would ‘Draining the Swamp’ Reduce Budget Deficit and Public Debt?”
--	Phoebe Wong (2019), “Are Porkless Federal Grants Less Sticky? Evidence on the Flypaper Effect of Federal Highway Grants Under the Federal Earmark Ban.”
+-	“Estimating the Effects of Independent Political Spending on Federal Contract Awards Post-*Citizens United* with Machine Learning Methods.”
+-	“Deficit Bias, Fiscal Rules, and Special Interest Politics: Would ‘Draining the Swamp’ Reduce Budget Deficit and Public Debt?”
+-	“Are Porkless Federal Grants Less Sticky? Evidence on the Flypaper Effect of Federal Highway Grants Under the Federal Earmark Ban.”
+- Machine learning models that predict the winning party of U.S. congressional races from 2014 to 2018 using past election results and demographic features from U.S. Census data, with over 98 percent accuracy.
+- Estimate the causal effects of policy interventions/made counterfactual prediction using machine learning-enhanced synthetic control method, matrix completion, causal forest, ensemble method, and recurrent neural networks.
 
 
 <br>
