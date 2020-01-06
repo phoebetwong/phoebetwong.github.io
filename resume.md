@@ -6,7 +6,7 @@ title: resume
 ## Professional Summary
 ---
 Economist with data science training and 5+ years of management experience in government and nonprofit. Expertise in causal inference methodologies, machine learning models, public finance, and analyzing large datasets with Python.
----
+
 <br>
 ## Education
 ---
