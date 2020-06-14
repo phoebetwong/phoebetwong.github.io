@@ -10,7 +10,7 @@ Economist with data science training and 5+ years of management experience in go
 <br>
 ## Education
 ---
-### Doctor of Philosophy in Economics (ABD), Expected: May 2020
+### Doctor of Philosophy in Economics (ABD)
 American University, Washington DC<br>
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
 Dissertation Title: Essays on special interest influence and fiscal policies
@@ -32,7 +32,8 @@ San Francisco State University, San Francisco, CA
 ## Professional Experience
 ---
 ### Voter Participation Center, Washington DC, Jan 2020 - present
-*Director of Data & Analytics, Apr 2019 - present*<br>
+*Director of Data Science & Analytics, June 2020 - present*<br>
+*Director of Data & Analytics, Jan 2020 - Jun 2020*
 - Manage and execute a strategic data-driven research program supporting VPC’s mission to increase civic participation of historically underrepresented groups in the U.S.
 <br>
 
