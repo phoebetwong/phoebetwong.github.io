@@ -32,7 +32,7 @@ San Francisco State University, San Francisco, CA
 ## Professional Experience
 ---
 ### Voter Participation Center, Washington DC, Jan 2020 - present
-*Director of Data Science & Analytics, June 2020 - present*<br>
+*Director of Data Science & Analytics, Jun 2020 - Present*<br>
 *Director of Data & Analytics, Jan 2020 - Jun 2020*
 - Manage and execute a strategic data-driven research program supporting VPC’s mission to increase civic participation of historically underrepresented groups in the U.S.
 <br>
