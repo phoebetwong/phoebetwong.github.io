@@ -12,7 +12,7 @@ Seasoned data scientist/economist with 5+ years of experience building and manag
 ---
 ### Doctor of Philosophy in Economics (ABD)
 American University, Washington DC<br>
-Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics<br>
+Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
 <br>
 ### Data Science Fellowship, Sep 2019
 The Flatiron School, Washington DC
