@@ -36,7 +36,6 @@ San Francisco State University, San Francisco, CA
 - Lead a growing team of data scientists and engineers to productionize and deploy machine learning models that predict individuals’ response likelihood to direct mail programs, doubling the programs’ response rates.
 - Modernize the org’s data infrastructure by rebuilding data pipelines on AWS; ingesting over 360MM records from a variety of sources with daily updates.
 - Communicate model results and analyses to major donors and partners.
-
 <br>
 
 ### Equal Citizens, Washington DC, Apr 2017 - Dec 2019
@@ -44,13 +43,11 @@ San Francisco State University, San Francisco, CA
 *Executive Director, Apr 2017 - Mar 2019*
 -	Founded the nonprofit with Harvard Law Professor Lawrence Lessig to advance democracy reform with high-profile litigation, advocacy, and education projects.
 - Led a network of staffs, consultants, volunteers, and cross-functional teams to deliver projects within budget and under tight deadlines; developed fundraising and public relations strategies; maintained IRS/legal compliance.
-
 <br>
 
 ### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
 *Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*<br>
 *Economist, Democratic Staff, May 2015 - Jun 2016*
-
 -	Advised Members of Congress and staffs on macroeconomic, fiscal, and monetary policy issues for congressional hearings and delegations.
 -	Produced analytical reports on federal policies and legislative proposals; analyzed key U.S. and global macroeconomic indicators for periodic economic outlook.
 -	Prepared briefing materials and coordinated with expert witnesses for congressional hearings; wrote and edited speeches, hearing statements, press releases for the Ranking Member.
@@ -85,8 +82,8 @@ San Francisco State University, San Francisco, CA
 *Research Assistant Intern, Global Policy Section, Economics and Social Policy Unit*
 -	Supported Senior Programme Officers in policy analyses for the State of the World’s Children and other UNICEF companion publications using child poverty data.
 -	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries.
-
 <br>
+
 ## Awards & Honors
 ---
 - Most Influential Article of the Year, Towards Data Science, 2019
