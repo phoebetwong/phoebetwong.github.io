@@ -31,7 +31,7 @@ San Francisco State University, San Francisco, CA
 ## Professional Experience
 ---
 ### Voter Participation Center, Washington DC, Jan 2020 - present
-*Director of Data Science & Analytics, Jan 2020 - Present*<br>
+*Senior Director of Data Science & Analytics, Jan 2020 - Present*<br>
 - Provide data science and analytics leadership to improve the results of large-scale voter registration and turnout programs through data-driven decisions.
 - Lead a growing team of data scientists and engineers to productionize and deploy machine learning models that predict individuals’ response likelihood to direct mail programs, doubling the programs’ response rates.
 - Modernize the org’s data infrastructure by rebuilding data pipelines on AWS; ingesting over 360MM records from a variety of sources with daily updates.
