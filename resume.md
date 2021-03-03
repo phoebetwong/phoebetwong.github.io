@@ -5,7 +5,7 @@ title: resume
 <br>
 ## Professional Summary
 ---
-Seasoned data scientist/economist with 5+ years of experience building and managing teams to deliver high-impact projects in government and nonprofits. Expertise in causal inferences, machine learning, data management, and public finance. Passionate about promoting data science literacy and enabling evidence-based decision making with data.
+Seasoned data scientist/economist with 5+ years of experience building and managing teams to deliver high-impact projects in government and nonprofits. Expertise in causal inferences (observational and experimental), machine learning, data management, and public finance. Passionate about promoting data science literacy and enabling evidence-based decision making with big data to improve public wellbeing.
 
 <br>
 ## Education
@@ -32,16 +32,17 @@ San Francisco State University, San Francisco, CA
 ---
 ### Voter Participation Center, Washington DC, Jan 2020 - present
 *Senior Director of Data Science & Analytics, Jan 2020 - Present*<br>
-- Provide data science and analytics leadership to improve the results of large-scale voter registration and turnout programs through data-driven decisions.
-- Lead a growing team of data scientists and engineers to productionize and deploy machine learning models that predict individuals’ response likelihood to direct mail programs, doubling the programs’ response rates.
-- Modernize the org’s data infrastructure by rebuilding data pipelines on AWS; ingesting over 360MM records from a variety of sources with daily updates.
+- Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and 360M pieces of mail sent in 2020, and generated 1.6M voter registration and 5M vote-by-mail applications.
+- Lead a growing team of data scientists and engineers to execute end-to-end ML/AI solutions that improve program efficiency; deployed ML models resulted in 2x increase in voter registration programs’ success rates.
+- Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g., A/B tests and multi-variate tests).
+- Modernize the org’s data infrastructure by building new ETL pipelines on AWS; manage over 15TB of data from multiple sources with daily updates.
 - Communicate model results and analyses to major donors and partners.
 <br>
 
 ### Equal Citizens, Washington DC, Apr 2017 - Dec 2019
 *Finance Director, Apr 2019 - Dec 2019*<br>
 *Executive Director, Apr 2017 - Mar 2019*
--	Founded the nonprofit with Harvard Law Professor Lawrence Lessig to advance democracy reform with high-profile litigation, advocacy, and education projects.
+-	Founded the nonprofit with Harvard Law Professor Lawrence Lessig to advance U.S. democracy reform with high-profile litigation, advocacy, and education projects.
 - Led a network of staffs, consultants, volunteers, and cross-functional teams to deliver projects within budget and under tight deadlines; developed fundraising and public relations strategies; maintained IRS/legal compliance.
 <br>
 
@@ -56,14 +57,14 @@ San Francisco State University, San Francisco, CA
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
-- Developed and built a fiscal database for the Europe and Central Asia region through collaboration with the World Bank country offices to monitor the Euro-zone crisis. Analyzed macro and financial indicators in the region.
+- Developed and built a fiscal database for the Europe and Central Asia region through collaboration with the World Bank country offices. Analyzed macro and financial indicators in the region to monitor the Euro-zone crisis.
 <br>
 
 *Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
 - Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal.<br>
 
 *Consultant, Latin America & the Caribbean, Financial Management Unit*
-- Authored a grant proposal for a regional study on public financial management reforms and the quality of public service provision in the Latin America & Caribbean region.
+- Conducted regional study on public financial management reforms and the quality of public service provision in the Latin America & Caribbean region.
 <br>
 
 ### American University, Washington DC, Aug 2009 - May 2012
@@ -117,8 +118,8 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Data Science Projects
 ---
--	Predicted successful registrants of voter registration programs using an XGBoost model with over 5MM person-level past program records and 300 features. Response rates of subsequent programs doubled.
-- Designed an optimization algorithm to assign number of mail pieces to 8MM targets in an address-based direct mail program based on modeled registration rates and ideology composition at the census block group level.
+-	Predicted successful registrants of voter registration programs using an XGBoost model with over 5M person-level past program records and 300 features. Response rates of subsequent programs doubled.
+- Designed an optimization algorithm to assign number of mail pieces to 8M targets in an address-based direct mail program based on modeled registration rates and ideology composition at the census block group level.
 - Rank-ordered 2020 general election voters by their net responsiveness to voter turnout efforts using the “true-lift” model approach that incorporates both predicted treatment effect and counterfactual behavior, trained with 10MM records from past randomized controlled experiments.    
 - Built classification models that predict the winning party of congressional races from 2014 to 2018 using past election results and demographic features from U.S. Census data, with over 98 percent accuracy.
 - Estimated the causal effects of policy interventions using machine learning enhanced synthetic control method, matrix completion, causal forest, ensemble method, and recurrent neural networks.
