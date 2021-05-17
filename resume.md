@@ -10,6 +10,9 @@ Seasoned data scientist/economist with 5+ years of experience building and manag
 <br>
 ## Education
 ---
+### Professional Certificate in Artificial Intelligence, Expected Oct 2021
+Stanford University, Stanford, CA
+<br>
 ### Doctor of Philosophy in Economics (ABD)
 American University, Washington DC<br>
 Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
