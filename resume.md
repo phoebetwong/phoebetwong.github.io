@@ -37,8 +37,8 @@ San Francisco State University, San Francisco, CA
 *Senior Director of Data Science & Analytics, Jan 2020 - Present*<br>
 - Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and generated ~1.6M voter registration and ~5M vote-by-mail applications in 2020.
 - Build and lead a team of data scientists and engineers to execute end-to-end ML solutions to enable data-driven targeting and improve program efficiency; deployed ML models resulted in 1.8x increase in programs’ success rates.
-- Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g., A/B tests and multi-variate tests).
-- Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS with15TB of data from multiple sources and daily updates.
+- Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g. A/B tests and multi-variate tests).
+- Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS with ~15TB of data from multiple sources and daily updates.
 - Communicate model results and analyses to major donors and partners.
 <br>
 
