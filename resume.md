@@ -5,12 +5,12 @@ title: resume
 <br>
 ## Professional Summary
 ---
-Seasoned data scientist/economist with 5+ years of experience building and managing teams to deliver high-impact projects in government and nonprofits. Expertise in causal inferences (observational and experimental), machine learning, data management, and public finance. Passionate about promoting data science literacy and enabling evidence-based decision making with big data to improve public wellbeing.
+Seasoned data scientist/economist with extensive track record building and managing teams to deliver high-impact projects in government and nonprofits. Expertise in causal inferences (observational and experimental), machine learning, natural language processing, data management, and public finance. Passionate about promoting data science literacy and enabling evidence-based decision making with big data.
 
 <br>
 ## Education
 ---
-### Professional Certificate in Artificial Intelligence, Expected Oct 2021
+### Professional Certificate in Artificial Intelligence, Oct 2021
 Stanford University, Stanford, CA
 <br>
 ### Doctor of Philosophy in Economics (ABD)
@@ -35,10 +35,10 @@ San Francisco State University, San Francisco, CA
 ---
 ### Voter Participation Center, Washington DC, Jan 2020 - present
 *Senior Director of Data Science & Analytics, Jan 2020 - Present*<br>
-- Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and 360M pieces of mail sent in 2020, and generated 1.6M voter registration and 5M vote-by-mail applications.
-- Lead a growing team of data scientists and engineers to execute end-to-end ML/AI solutions that improve program efficiency; deployed ML models resulted in 2x increase in voter registration programs’ success rates.
+- Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and generated ~1.6M voter registration and ~5M vote-by-mail applications in 2020.
+- Build and lead a team of data scientists and engineers to execute end-to-end ML solutions to enable data-driven targeting and improve program efficiency; deployed ML models resulted in 1.8x increase in programs’ success rates.
 - Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g., A/B tests and multi-variate tests).
-- Modernize the org’s data infrastructure by building new ETL pipelines on AWS; manage over 15TB of data from multiple sources with daily updates.
+- Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS with15TB of data from multiple sources and daily updates.
 - Communicate model results and analyses to major donors and partners.
 <br>
 
@@ -114,17 +114,17 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Skills
 ---
-- Proficient in Python (Pandas, Scikit-learn, Statsmodels, XGBoost, Gensim, PyTorch, PySpark, Keras, TensorFlow, Beautiful Soup, Matplotlib, Seaborn, Plotly), SQL, GitHub, MongoDB, AWS (SageMaker, S3, EC2, Redshift, Athena), Hive/Hadoop, Stata, MATLAB, LaTeX, and MS Office
+- Proficient in Python (Pandas, Scikit-learn, Statsmodels, XGBoost, Gensim, PyTorch, PySpark, Keras, TensorFlow, Beautiful Soup, Matplotlib, Seaborn, Plotly), SQL, GitHub, AWS (SageMaker, S3, EC2, Redshift, Athena), Hive/Hadoop, MongoDB, Stata, MATLAB, LaTeX, and MS Office
 - Working knowledge in SAS, R, EViews, SPSS, Bloomberg Terminal, WordPress, MATHEMATICA, AutoCAD, Pro/ENGINEER, and LexisNexis
 -	Completed a 3-year university teaching certificate program “Greenberg Seminars on Effective University Teaching” at American University
 
 <br>
 ## Data Science Projects
 ---
--	Predicted successful registrants of voter registration programs using an XGBoost model with over 5M person-level past program records and 300 features. Response rates of subsequent programs doubled.
-- Designed an optimization algorithm to assign number of mail pieces to 8M targets in an address-based direct mail program based on modeled registration rates and ideology composition at the census block group level.
-- Rank-ordered 2020 general election voters by their net responsiveness to voter turnout efforts using the “true-lift” model approach that incorporates both predicted treatment effect and counterfactual behavior, trained with 10MM records from past randomized controlled experiments.    
-- Built classification models that predict the winning party of congressional races from 2014 to 2018 using past election results and demographic features from U.S. Census data, with over 98 percent accuracy.
+- Analyze the social media posts of candidates in 2020 US federal/state-wide elections to detect differences in word choices and sentiments on salient topics and improve the accuracy of 2022 electoral predictions.
+- Predicted successful registration likelihood of targets using an XGBoost model with over 5M records from past voter registration programs and 300 features. Successful registration rates doubled after model deployment.
+- Designed an optimization algorithm that assigned treatment intensity to targets in an address-based voter registration program based on modeled registration rates and ideology composition of US Census Block Groups. Raised the program’s reach to intended target audience from 60% to 80%.
+- Built a “true-lift” model that incorporates both predicted treatment effect and counterfactual behavior to predict targets’ net responsiveness to voter turnout outreach, using 10M records from past RCTs.    
 - Estimated the causal effects of policy interventions using machine learning enhanced synthetic control method, matrix completion, causal forest, ensemble method, and recurrent neural networks.
 
 
