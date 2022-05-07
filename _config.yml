@@ -27,7 +27,7 @@ sass:
 
 texture:
   title: Phoebe T. Wong
-  tagline: Economist & Data Scientist
+  tagline: Data Scientist & Economist  
   date_format: "%b %-d, %Y"
   style: red
   showNav: true
