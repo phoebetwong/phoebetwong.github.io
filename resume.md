@@ -8,39 +8,16 @@ title: resume
 Seasoned data scientist/economist with extensive track record building and managing teams to deliver high-impact projects in government and nonprofits. Expertise in causal inferences (observational and experimental), machine learning, natural language processing, data management, and public finance. Passionate about promoting data science literacy and enabling evidence-based decision making with big data.
 
 <br>
-## Education
----
-### Professional Certificate in Artificial Intelligence, Oct 2021
-Stanford University, Stanford, CA
-<br>
-### Doctor of Philosophy in Economics (ABD)
-American University, Washington DC<br>
-Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
-<br>
-### Data Science Fellowship, Sep 2019
-The Flatiron School, Washington DC
-<br>
-### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
-Baruch College, City University of New York, New York, NY
-<br>
-### Master of Arts in Politics, May 2006
-The New School for Social Research, New York, NY<br>
-Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
-<br>
-### Bachelor of Arts in Economics and Political Science, May 2003
-San Francisco State University, San Francisco, CA  
-
-<br>
 ## Professional Experience
 ---
-### EY-Parthenon, McLean, VA, Mar 2022 - Present
+### EY-Parthenon, McLean VA, Mar 2022 - Present
 *Director, Data Science*<br>
 - Lead a team to develop real-time geoelectric field forecasting capabilities with Deep Learning techniques for a NASA SBIR Phase II contract, which aims to provide operators of critical infrastructure with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
 <br>
 
-### Quantitative Scientific Solutions, LLC, Arlington, VA, Jan 2022 - Mar 2022
+### Quantitative Scientific Solutions, Arlington VA, Jan 2022 - Mar 2022
 *Lead Data Scientist*<br>
-- Acquired by EY-Parthenon
+- The firm was acquired by EY-Parthenon in Mar 2022
 <br>
 
 ### Voter Participation Center, Washington DC, Jan 2020 - Dec 2021
@@ -99,6 +76,29 @@ San Francisco State University, San Francisco, CA
 -	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries.
 <br>
 
+## Education
+---
+### Professional Certificate in Artificial Intelligence, Oct 2021
+Stanford University, Stanford, CA
+<br>
+### Doctor of Philosophy in Economics (ABD)
+American University, Washington DC<br>
+Fields: Public Finance; Monetary & Financial Economics; Applied Econometrics
+<br>
+### Data Science Fellowship, Sep 2019
+The Flatiron School, Washington DC
+<br>
+### Post Baccalaureate Business Certificate in Finance and Accounting, Dec 2007
+Baruch College, City University of New York, New York, NY
+<br>
+### Master of Arts in Politics, May 2006
+The New School for Social Research, New York, NY<br>
+Thesis Title: Essays on Democracy and Income Inequality in Developing Countries
+<br>
+### Bachelor of Arts in Economics and Political Science, May 2003
+San Francisco State University, San Francisco, CA  
+
+<br>
 ## Awards & Honors
 ---
 - Most Influential Article of the Year, Towards Data Science, 2019
