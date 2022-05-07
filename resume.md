@@ -33,8 +33,19 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Professional Experience
 ---
-### Voter Participation Center, Washington DC, Jan 2020 - present
-*Senior Director of Data Science & Analytics, Jan 2020 - Present*<br>
+### EY-Parthenon, McLean, VA, Mar 2022 - Present
+*Director, Data Science*<br>
+- Lead a team to develop real-time geoelectric field forecasting capabilities with Deep Learning techniques for a NASA SBIR Phase II contract, which aims to provide operators of critical infrastructure with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
+<br>
+
+### Quantitative Scientific Solutions, LLC, Arlington, VA, Jan 2022 - Mar 2022
+*Lead Data Scientist*<br>
+- Acquired by EY-Parthenon
+<br>
+
+### Voter Participation Center, Washington DC, Jan 2020 - Dec 2021
+*Senior Director of Data Science & Analytics, Jan 2021 - Dec 2021*<br>
+*Director of Data Science & Analytics, Jan 2020 - Dec 2020*
 - Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and generated ~1.6M voter registration and ~5M vote-by-mail applications in 2020.
 - Build and lead a team of data scientists and engineers to execute end-to-end ML solutions to enable data-driven targeting and improve program efficiency; deployed ML models resulted in 1.8x increase in programs’ success rates.
 - Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g. A/B tests and multi-variate tests).
