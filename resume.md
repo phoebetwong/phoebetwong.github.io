@@ -74,8 +74,8 @@ Seasoned data scientist/economist with extensive track record building and manag
 *Research Assistant Intern, Global Policy Section, Economics and Social Policy Unit*
 -	Supported Senior Programme Officers in policy analyses for the State of the World’s Children and other UNICEF companion publications using child poverty data.
 -	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries.
-<br>
 
+<br>
 ## Education
 ---
 ### Professional Certificate in Artificial Intelligence, Oct 2021
