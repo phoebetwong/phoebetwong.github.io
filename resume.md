@@ -5,7 +5,7 @@ title: resume
 <br>
 ## Professional Summary
 ---
-Seasoned, pragmatic data scientist/economist with exceptional work ethic and extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with big data. 
+Seasoned, pragmatic data scientist/economist with exceptional work ethic and extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with big data.
 
 <br>
 ## Professional Experience
@@ -23,8 +23,7 @@ Seasoned, pragmatic data scientist/economist with exceptional work ethic and ext
 ### Voter Participation Center, Washington DC, Jan 2020 - Dec 2021
 *Senior Director of Data Science & Analytics, Jan 2021 - Dec 2021*<br>
 *Director of Data Science & Analytics, Jan 2020 - Dec 2020*
-- Provide data science and analytics leadership to large-scale direct mail and digital programs, with over $160M budget and generated ~1.6M voter registration and ~5M vote-by-mail applications in 2020.
-- Build and lead a team of data scientists and engineers to execute end-to-end ML solutions to enable data-driven targeting and improve program efficiency; deployed ML models resulted in 1.8x increase in programs’ success rates.
+- Built and led a team of data scientists and engineers to execute end-to-end AI/ML solutions that enabled data-driven targeting and improved efficiency of $160MM national voter mobilization programs; deployed ML models resulted in 1.8x increase in programs’ success rates, which generated ~1.6MM voter registration and ~5MM vote-by-mail applications in key states in 2020.
 - Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g. A/B tests and multi-variate tests).
 - Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS with ~15TB of data from multiple sources and daily updates.
 - Communicate model results and analyses to major donors and partners.
@@ -132,12 +131,11 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Data Science Projects
 ---
-- Analyze the social media posts of candidates in 2020 US federal/state-wide elections to detect differences in word choices and sentiments on salient topics and improve the accuracy of 2022 electoral predictions.
-- Predicted successful registration likelihood of targets using an XGBoost model with over 5M records from past voter registration programs and 300 features. Successful registration rates doubled after model deployment.
-- Designed an optimization algorithm that assigned treatment intensity to targets in an address-based voter registration program based on modeled registration rates and ideology composition of US Census Block Groups. Raised the program’s reach to intended target audience from 60% to 80%.
-- Built a “true-lift” model that incorporates both predicted treatment effect and counterfactual behavior to predict targets’ net responsiveness to voter turnout outreach, using 10M records from past RCTs.    
+- Designed and built an application to speed up random assignments in randomized controlled trials (RCTs) with multiple treatments across time and large sample size (>10MM) by leveraging parallel computing and MPP databases. Reduced processing time for ~40MM samples from 48+hours to ~15 minutes.  
+- Designed and implemented an optimization algorithm that assigned treatment intensity to address-based targets in a voter registration program based on modeled treatment responsiveness and ideological propensity. Raised the program’s reach to intended target audience from 60% to 80%.
+- Predicted successful registration likelihood of targets using an XGBoost model with over 5MM records from past voter registration programs and 300 features. Successful registration rates doubled after model deployment.
+- Built a “true-lift” model that incorporates both predicted treatment effect and estimated counterfactual behavior to predict targets’ net responsiveness to voter turnout outreach, using 10MM records from past RCTs.    
 - Estimated the causal effects of policy interventions using machine learning enhanced synthetic control method, matrix completion, causal forest, ensemble method, and recurrent neural networks.
-
 
 <br>
 ## Languages
