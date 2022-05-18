@@ -5,7 +5,7 @@ title: resume
 <br>
 ## Professional Summary
 ---
-Seasoned data scientist/economist with exceptional work ethic and extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with big data.
+ Seasoned data scientist/economist with exception work ethic and pragmatism. Extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with big data. 
 
 <br>
 ## Professional Experience
