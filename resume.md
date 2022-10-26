@@ -5,14 +5,15 @@ title: resume
 <br>
 ## Professional Summary
 ---
- Seasoned data scientist/economist with extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with big data. 
+ Seasoned data scientist + economist with extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with data.
 
 <br>
 ## Professional Experience
 ---
 ### EY-Parthenon, McLean VA, Mar 2022 - Present
 *Director, Data Science*<br>
-- Lead a team to develop real-time geoelectric field forecasting capabilities with Deep Learning techniques for a NASA SBIR Phase II contract, which aims to provide operators of critical infrastructure with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
+- Lead end-to-end MLOps projects to develop automation and fraud detection tools for EY’s audit teams and financial services clients.
+- Developed real-time forecasting models with deep learning for a NASA SBIR Phase II contract, which aimed to improve energy system resiliency by providing power grid operators with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
 <br>
 
 ### Quantitative Scientific Solutions, Arlington VA, Jan 2022 - Mar 2022
@@ -119,6 +120,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Invited Presentations
 ---
+- “Developing Real-Time Forecasting Capabilities for GIC Hazard Mitigation: A Data-Centric AI Approach,” EPRI AI and Electric Power Summit, Rome, Italy, Oct 4, 2022.
 - The Case for Debt-Financing Surface Transportation Infrastructure Investments at the Federal Level in the 115th U.S. Congress,” The Association of University Business and Economic Researchers Fall Conference, Fayetteville, Arkansas, October 25, 2016.
 
 <br>
@@ -131,6 +133,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Data Science Projects
 ---
+- Built a first-of-its-kind time series forecasting solution with deep learning models using a data-centric AI approach, which focused on data quality control throughout the MLOps lifecycle to maintain model accuracy post-deployment.
 - Designed and built an application to speed up random assignments in randomized controlled trials (RCTs) with multiple treatments across time and large sample size (>10MM) by leveraging parallel computing and MPP databases. Reduced processing time for ~40MM samples from 48+hours to ~15 minutes.  
 - Designed and implemented an optimization algorithm that assigned treatment intensity to address-based targets in a voter registration program based on modeled treatment responsiveness and ideological propensity. Raised the program’s reach to intended target audience from 60% to 80%.
 - Predicted successful registration likelihood of targets using an XGBoost model with over 5MM records from past voter registration programs and 300 features. Successful registration rates doubled after model deployment.
