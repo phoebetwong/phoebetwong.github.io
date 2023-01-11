@@ -10,7 +10,10 @@ title: resume
 <br>
 ## Professional Experience
 ---
-### EY-Parthenon, McLean VA, Mar 2022 - Present
+### Minerva CQ, Sunnyvale, CA (remote), Dec 2022 - Present
+*Vice President, Data Science*<br>
+
+### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
 *Director, Data Science*<br>
 - Lead end-to-end MLOps projects to develop automation and fraud detection tools for EY’s audit teams and financial services clients.
 - Developed real-time forecasting models with deep learning for a NASA SBIR Phase II contract, which aimed to improve energy system resiliency by providing power grid operators with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
