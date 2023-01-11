@@ -10,7 +10,7 @@ title: resume
 <br>
 ## Professional Experience
 ---
-### Minerva CQ, Sunnyvale, CA (remote), Dec 2022 - Present
+### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
 *Vice President, Data Science*<br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
