@@ -3,12 +3,12 @@ layout: page
 title: resume
 ---
 <br>
-## Professional Summary
+## Professional Profile
 ---
 Seasoned data scientist and economist with an extensive track record building and leading teams to deliver high-impact applied AI projects. Expertise in machine learning operations, natural and spoken language processing, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision making and create value for end users.
 
 <br>
-## Professional Experience
+## Work Experience
 ---
 ### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
 *Vice President, Data Science*<br>
@@ -44,7 +44,7 @@ Seasoned data scientist and economist with an extensive track record building an
 - Developed fundraising and public relations strategies, and maintained IRS/legal compliance.
 <br>
 
-### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
+### Joint Economic Committee of the United States Congress, Washington DC, May 2015 - Apr 2017
 *Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*<br>
 *Economist, Democratic Staff, May 2015 - Jun 2016*
 -	Advised Members of Congress and congressional staff on macroeconomic, fiscal, and monetary policy issues for congressional hearings and delegations.
@@ -53,7 +53,7 @@ Seasoned data scientist and economist with an extensive track record building an
 -	Maintained contacts with subject matter experts at the Federal Reserve Board, federal agencies, international organizations, academia, and think tanks.
 <br>
 
-### The World Bank Group, Washington DC, Nov 2011 - May 2015
+### The World Bank, Washington DC, Nov 2011 - May 2015
 *Consultant, Europe and Central Asia, Poverty Reduction & Economic Management Unit*
 - Developed and built a fiscal database for the Europe and Central Asia region through collaboration with the World Bank country offices. Analyzed macro and financial indicators in the region to monitor the Euro-zone crisis.
 <br>
@@ -140,7 +140,7 @@ San Francisco State University, San Francisco, CA
 - Completed Greenberg Seminars on Effective University Teaching, a 3-year teaching certificate program at American University
 
 <br>
-## Data Science Projects
+## Applied AI & Data Science Projects
 ---
 - Fine-tuned NVIDIA Riva streaming ASR in es-ES with domain-specific audios and texts, and improved upon the word error rate of the existing model in production by 10 percentage points.
 - Developed a first-of-its-kind time series forecasting solution to predict hazardous GIC events with deep learning techniques using a data-centric AI approach, focusing on data quality control throughout the MLOps lifecycle to maintain model accuracy post-deployment.
