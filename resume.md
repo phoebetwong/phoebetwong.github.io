@@ -5,14 +5,14 @@ title: resume
 <br>
 ## Professional Summary
 ---
-Seasoned data scientist and economist with an extensive track record building and leading teams to deliver high-impact applied AI projects. Expertise in machine learning operations, natural and spoken language processing, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision-making and create value for end users. Current DoD Top Secret Security Clearance.
+Seasoned data scientist and economist with an extensive track record building and leading teams to deliver high-impact applied AI projects. Expertise in machine learning operations, natural and spoken language processing, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision making and create value for end users.
 
 <br>
 ## Professional Experience
 ---
 ### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
 *Vice President, Data Science*<br>
-- Leading a team of speech and NLP experts to develop and deploy end-to-end conversational AI solutions for contact-center agents — including real-time and batch inferences for automatic speech recognition (ASR), intent and entity recognitions, sentiment and customer satisfaction analyses, summarization, and topic modeling —   to deliver state-of-the-art performances in domain-specific tasks.
+- Leading a team of speech and NLP experts to develop and deploy end-to-end conversational AI solutions for contact-center agents — including real-time and batch inferences for automatic speech recognition (ASR), intent and entity recognitions, sentiment and customer satisfaction analyses, summarization, and topic modeling — to deliver state-of-the-art performances in domain-specific tasks.
 <br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
