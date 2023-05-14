@@ -5,17 +5,19 @@ title: resume
 <br>
 ## Professional Summary
 ---
- Seasoned data scientist + economist with extensive track record building and managing teams to deliver high-impact projects. Expertise in machine learning, natural language processing, data management, causal inferences (observational and experimental), and public finance. Passionate about enabling evidence-based decision making and creating values for end users with data.
+Seasoned data scientist and economist with an extensive track record building and leading teams to deliver high-impact applied AI projects. Expertise in machine learning operations, natural and spoken language processing, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision-making and create value for end users. Current DoD Top Secret Security Clearance.
 
 <br>
 ## Professional Experience
 ---
 ### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
 *Vice President, Data Science*<br>
+- Leading a team of speech and NLP experts to develop and deploy end-to-end conversational AI solutions for contact-center agents — including real-time and batch inferences for automatic speech recognition (ASR), intent and entity recognitions, sentiment and customer satisfaction analyses, summarization, and topic modeling —   to deliver state-of-the-art performances in domain-specific tasks.
+<br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
 *Director, Data Science*<br>
-- Lead end-to-end MLOps projects to develop automation and fraud detection tools for EY’s audit teams and financial services clients.
+- Led MLOps projects on automation and fraud detection for EY’s audit and financial services clients.
 - Developed real-time forecasting models with deep learning for a NASA SBIR Phase II contract, which aimed to improve energy system resiliency by providing power grid operators with early warnings of hazardous geomagnetically-induced currents caused by extreme geomagnetic storms.
 <br>
 
@@ -27,26 +29,28 @@ title: resume
 ### Voter Participation Center, Washington DC, Jan 2020 - Dec 2021
 *Senior Director of Data Science & Analytics, Jan 2021 - Dec 2021*<br>
 *Director of Data Science & Analytics, Jan 2020 - Dec 2020*
-- Built and led a team of data scientists and engineers to execute end-to-end AI/ML solutions that enabled data-driven targeting and improved efficiency of $160MM national voter mobilization programs; deployed ML models resulted in 1.8x increase in programs’ success rates, which generated ~1.6MM voter registration and ~5MM vote-by-mail applications in key states in 2020.
-- Supervise the design, implementation, and evaluation of randomized controlled experiments to create product insights (e.g. A/B tests and multi-variate tests).
-- Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS with ~15TB of data from multiple sources and daily updates.
+- Built and led a team of data scientists and engineers to execute end-to-end AI/ML solutions that enabled data-driven targeting and improved the efficiency of $160MM national voter mobilization programs in the 2020 election.
+- Deployed ML models that 2x program success rates, generated ~1.6MM voter registrations and ~5MM vote-by-mail applications in key states.
+- Designed randomized controlled experiments to improve the reliability of product insights.
+- Modernize the org’s data infrastructure by building new data science pipelines on Amazon AWS.
 - Communicate model results and analyses to major donors and partners.
 <br>
 
 ### Equal Citizens, Washington DC, Apr 2017 - Dec 2019
 *Finance Director, Apr 2019 - Dec 2019*<br>
 *Executive Director, Apr 2017 - Mar 2019*
--	Founded the nonprofit with Harvard Law Professor Lawrence Lessig to advance U.S. democracy reform with high-profile litigation, advocacy, and education projects.
-- Led a network of staffs, consultants, volunteers, and cross-functional teams to deliver projects within budget and under tight deadlines; developed fundraising and public relations strategies; maintained IRS/legal compliance.
+-	Founded the nonprofit with Harvard Law Professor Lawrence Lessig to advance U.S. democracy reform with high-profile litigation, advocacy, and education projects — its “faithless electors” case received a ruling from the U.S. Supreme Court in 2020, and lawsuits challenging super PACs are being ruled by state courts.
+- Built partnerships with legal teams, consultants, and volunteers to deliver projects under tight budgets and timelines.
+- Developed fundraising and public relations strategies, and maintained IRS/legal compliance.
 <br>
 
 ### Joint Economic Committee, United States Congress, Washington DC, May 2015 - Apr 2017
 *Senior Economist, Democratic Staff, Jun 2016 - Apr 2017*<br>
 *Economist, Democratic Staff, May 2015 - Jun 2016*
--	Advised Members of Congress and staffs on macroeconomic, fiscal, and monetary policy issues for congressional hearings and delegations.
+-	Advised Members of Congress and congressional staff on macroeconomic, fiscal, and monetary policy issues for congressional hearings and delegations.
 -	Produced analytical reports on federal policies and legislative proposals; analyzed key U.S. and global macroeconomic indicators for periodic economic outlook.
 -	Prepared briefing materials and coordinated with expert witnesses for congressional hearings; wrote and edited speeches, hearing statements, press releases for the Ranking Member.
--	Maintained relationships with counterparts at the Federal Reserve Board, federal agencies, international organizations, academia, and think tanks.
+-	Maintained contacts with subject matter experts at the Federal Reserve Board, federal agencies, international organizations, academia, and think tanks.
 <br>
 
 ### The World Bank Group, Washington DC, Nov 2011 - May 2015
@@ -55,7 +59,7 @@ title: resume
 <br>
 
 *Consultant, Development Economics & Chief Economist, Macroeconomics & Growth Unit*
-- Analyzed Peru census data using various microeconometric models with STATA for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal.<br>
+- Analyzed Peru census data using various microeconometric models with Stata for a paper on the socioeconomic impacts of mining activity in Peru, published in a peer-reviewed journal.<br>
 
 *Consultant, Latin America & the Caribbean, Financial Management Unit*
 - Conducted regional study on public financial management reforms and the quality of public service provision in the Latin America & Caribbean region.
@@ -121,27 +125,29 @@ San Francisco State University, San Francisco, CA
 - Minujin Alberto, Enrique Delamonica and Phoebe Wong (2006), “Exploring the Properties of Child Poverty Indicators in Various Socioeconomic Contexts,” UNICEF–DPP Working Paper Series, New York.
 
 <br>
-## Invited Presentations
+## Invited Talks
 ---
 - “Developing Real-Time Forecasting Capabilities for GIC Hazard Mitigation: A Data-Centric AI Approach,” EPRI AI and Electric Power Summit, Rome, Italy, Oct 4, 2022.
 - The Case for Debt-Financing Surface Transportation Infrastructure Investments at the Federal Level in the 115th U.S. Congress,” The Association of University Business and Economic Researchers Fall Conference, Fayetteville, Arkansas, October 25, 2016.
 
 <br>
-## Skills
+## Technical Skills
 ---
-- Proficient in Python (Pandas, Scikit-learn, Statsmodels, XGBoost, Gensim, PyTorch, PySpark, Keras, TensorFlow, Beautiful Soup, Matplotlib, Seaborn, Plotly), SQL, GitHub, AWS (SageMaker, S3, EC2, Redshift, Athena), Hive/Hadoop, MongoDB, Stata, MATLAB, LaTeX, and MS Office
-- Working knowledge in SAS, R, EViews, SPSS, Bloomberg Terminal, WordPress, MATHEMATICA, AutoCAD, Pro/ENGINEER, and LexisNexis
--	Completed a 3-year university teaching certificate program “Greenberg Seminars on Effective University Teaching” at American University
+- Proficient in Python (Hugging Face, spaCy, NLTK, PyTorch, PySpark, Keras, TensorFlow, Pandas, SciPy, Scikit-learn, Statsmodels, XGBoost, Plotly, Seaborn, Matplotlib, Beautiful Soup), AWS (SageMaker, S3, EC2, Redshift, Athena), SQL, GitHub, MongoDB, Jupyter Notebook, MLflow, Stata, MATLAB, LaTeX, and Microsoft Office
+- Experience in building domain-specific applications using LLMs: ASR, entity and intent recognition, sentiment analysis, extractive and abstractive summarization, topic modeling, information retrieval- and knowledge-based question answering, and task-oriented dialogue systems
+- Experience in implementing MLOps and Data-Centric AI approaches
+- Working knowledge in SAS, R, EViews, SPSS, LexisNexis, Bloomberg Terminal, WordPress, Mathematica, AutoCAD, and Pro/ENGINEER
+- Completed Greenberg Seminars on Effective University Teaching, a 3-year teaching certificate program at American University
 
 <br>
 ## Data Science Projects
 ---
-- Built a first-of-its-kind time series forecasting solution with deep learning models using a data-centric AI approach, which focused on data quality control throughout the MLOps lifecycle to maintain model accuracy post-deployment.
-- Designed and built an application to speed up random assignments in randomized controlled trials (RCTs) with multiple treatments across time and large sample size (>10MM) by leveraging parallel computing and MPP databases. Reduced processing time for ~40MM samples from 48+hours to ~15 minutes.  
-- Designed and implemented an optimization algorithm that assigned treatment intensity to address-based targets in a voter registration program based on modeled treatment responsiveness and ideological propensity. Raised the program’s reach to intended target audience from 60% to 80%.
-- Predicted successful registration likelihood of targets using an XGBoost model with over 5MM records from past voter registration programs and 300 features. Successful registration rates doubled after model deployment.
-- Built a “true-lift” model that incorporates both predicted treatment effect and estimated counterfactual behavior to predict targets’ net responsiveness to voter turnout outreach, using 10MM records from past RCTs.    
-- Estimated the causal effects of policy interventions using machine learning enhanced synthetic control method, matrix completion, causal forest, ensemble method, and recurrent neural networks.
+- Fine-tuned NVIDIA Riva streaming ASR in es-ES with domain-specific audios and texts, and improved upon the word error rate of the existing model in production by 10 percentage points.
+- Developed a first-of-its-kind time series forecasting solution to predict hazardous GIC events with deep learning techniques using a data-centric AI approach, focusing on data quality control throughout the MLOps lifecycle to maintain model accuracy post-deployment.
+- Developed and deployed an application to speed up random assignments in randomized controlled trials (RCTs) with multiple treatments across time and large sample sizes by leveraging parallel computing and MPP databases. Reduced processing time for random assignments of 40MM samples from 48+ hours to ~15 minutes.
+- Developed and deployed a voter registration likelihood model using XGBoost, with over 5MM records and 300 features. Successful registration rates increased 2x after model deployment.
+- Developed an uplift model to predict targets’ net responsiveness to voter turnout outreach, using 10MM records from past RCTs to infer actual treatment effects based on estimated counterfactual behavior.   
+
 
 <br>
 ## Languages
