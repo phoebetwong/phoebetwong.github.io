@@ -154,4 +154,4 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Languages
 ---
-- Native English & Cantonese speaker. Advanced Mandarin. 
+- Native English & Cantonese speaker. Advanced Mandarin.
