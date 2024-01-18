@@ -20,7 +20,6 @@ Seasoned data scientist and economist with an extensive track record building an
 *Director, Data Science*<br>
 - Developed real-time forecasting models with deep learning for a NASA SBIR Phase II contract to improve energy system resiliency with timely warnings of hazardous geomagnetically-induced currents (GIC) caused by geomagnetic storms.
 - Led MLOps projects on automation to improve the operational efficiency of EY’s federal audit teams.
-
 <br>
 
 ### Quantitative Scientific Solutions, Arlington VA, Jan 2022 - Mar 2022
