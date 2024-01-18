@@ -135,6 +135,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Technical Skills
 ---
+- AWS Certified Solutions Architect — Associate (Expires Jan 2027)
 - Proficient in Python (spaCy, NLTK, PyTorch, PySpark, Keras, TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Statsmodels, XGBoost, Plotly, Seaborn, Matplotlib), AWS (SageMaker, S3, EC2, Redshift, Athena), SQL, JSON, Bash, Hugging Face, GitHub/GitLab, MongoDB, VS Code, MLflow, Stata, MATLAB, LaTeX, and Microsoft Office
 - Proficient in building domain-specific applications using LLMs: ASR, entity and intent recognition, sentiment analysis, extractive and abstractive summarization, topic modeling, information retrieval- and knowledge-based question answering, and task-oriented dialogue systems
 - Proficient in MLOps and data-centric AI implementations
