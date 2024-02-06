@@ -13,7 +13,7 @@ Seasoned data scientist and economist with an extensive track record building an
 ### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
 *Vice President, Data Science*<br>
 - Leading a team of NLP & SLP experts to build real-time conversational AI solutions that enable contact-center agents to resolve customer problems more efficiently.
-- Using state-of-the-art, pre-trained automatic speech recognition (ASR) and large language model (LLM) to fine-tune for domain-specific tasks such as intent and named entity recognition, sentiment and customer satisfaction classification, summarization, topic modeling, and dialog structure induction.
+- Using state-of-the-art, pre-trained automatic speech recognition (ASR) and large language model (LLM) to fine-tune for domain-specific tasks such as intent and named entity recognition, sentiment and customer satisfaction classification, summarization, topic modeling, dialog structure induction, and retrieval-augmented generation.
 <br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
