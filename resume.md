@@ -5,15 +5,19 @@ title: resume
 <br>
 ## Professional Profile
 ---
-Seasoned data scientist and economist with an extensive track record building and leading teams that deliver high-impact AI solutions. Expertise in machine learning operations (MLOps) and model evaluation, speech and language processing (SLP & NLP), data-centric AI, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision-making and create value for end users.
+Seasoned data scientist with an extensive track record building and leading teams to deliver high-impact AI solutions. Expertise in MLOps, speech and language processing, data-centric AI, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision-making and create value for end users.
 
 <br>
 ## Work Experience
 ---
-### Minerva CQ, Sunnyvale CA (remote), Dec 2022 - Present
+### Steply AI, Washington DC, Apr 2024 - Present
+*Chief Executive Officer*<br>
+- Building a contact center analytics platform that improves operation efficiency by identifying the action sequences in customer service call audio or chat transcripts using AI.
+<br>
+### Minerva CQ, Sunnyvale CA, Dec 2022 - Mar 2024
 *Vice President, Data Science*<br>
-- Leading a team of NLP & SLP experts to build real-time conversational AI solutions that enable contact-center agents to resolve customer problems more efficiently.
-- Using state-of-the-art, pre-trained automatic speech recognition (ASR) and large language model (LLM) to fine-tune for domain-specific tasks such as intent and named entity recognition, sentiment and customer satisfaction classification, summarization, topic modeling, dialog structure induction, and retrieval-augmented generation.
+- Led a team of speech and language processing experts to build real-time conversational AI solutions that enabled contact center agents to help customers more efficiently.
+- Finetuned state-of-the-art, pre-trained automatic speech recognition (ASR) and large language models (LLM) for domain-specific tasks: intent and named entity recognition, sentiment and customer satisfaction classification, summarization, topic modeling, dialog structure induction, retrieval-augmented generation.
 <br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
@@ -83,8 +87,10 @@ Seasoned data scientist and economist with an extensive track record building an
 -	Assisted in building a SQL database for data from the Poverty Reduction Strategy Papers, which included a broad range of demographic and social indicators on 58 developing countries.
 
 <br>
-## Education
+## Education & Certification
 ---
+### AWS Certified Solutions Architect — Associate, Jan 2024
+
 ### Professional Certificate in Artificial Intelligence, Oct 2021
 Stanford University, Stanford, CA
 <br>
@@ -134,7 +140,6 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Technical Skills
 ---
-- AWS Certified Solutions Architect — Associate (Expires Jan 2027)
 - Proficient in Python (spaCy, NLTK, PyTorch, PySpark, Keras, TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Statsmodels, XGBoost, Plotly, Seaborn, Matplotlib), AWS (SageMaker, S3, EC2, Redshift, Athena), SQL, JSON, Bash, Hugging Face, GitHub/GitLab, MongoDB, VS Code, MLflow, Stata, MATLAB, LaTeX, and Microsoft Office
 - Proficient in building domain-specific applications using LLMs: ASR, entity and intent recognition, sentiment analysis, extractive and abstractive summarization, topic modeling, information retrieval- and knowledge-based question answering, and task-oriented dialogue systems
 - Proficient in MLOps and data-centric AI implementations
