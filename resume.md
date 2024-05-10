@@ -14,6 +14,7 @@ Seasoned data scientist with an extensive track record building and leading team
 *Chief Executive Officer*<br>
 - Building a contact center analytics platform that improves operation efficiency by identifying the action sequences in customer service call audio or chat transcripts using AI.
 <br>
+
 ### Minerva CQ, Sunnyvale CA, Dec 2022 - Mar 2024
 *Vice President, Data Science*<br>
 - Led a team of speech and language processing experts to build real-time conversational AI solutions that enabled contact center agents to help customers more efficiently.
