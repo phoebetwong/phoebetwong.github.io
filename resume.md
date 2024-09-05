@@ -115,6 +115,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Awards & Honors
 ---
+- The Idiap & IdeArk prize, Idiap Create Challenge, 13th edition, 2024
 - Most Influential Article of the Year, Towards Data Science, 2019
 - Most Viewed & Shared Blog, KDnuggets, 2019
 - Data Science Fellowship, The Flatiron School, Washington DC, 2019
