@@ -5,20 +5,27 @@ title: resume
 <br>
 ## Professional Profile
 ---
-Seasoned data scientist with an extensive track record building and leading teams to deliver high-impact AI solutions. Expertise in MLOps, speech and language processing, data-centric AI, data management, observational and experimental causal inferences, and public finance. Passionate about building products with state-of-the-art AI techniques to improve decision-making and create value for end users.
+Data science leader with 10+ years building and scaling teams that deliver high-impact analytics, experimentation, and modeling. Proven track record across consumer service AI, voter mobilization, and federal agencies — designing analytic frameworks and turning ambiguous problem spaces into outcome-oriented metrics and data-informed strategies. Deep technical fluency in Python, SQL, ML, and GenAI, with a passion for coaching high-performing teams and collaborating with stakeholders to drive product direction and improve user outcomes.
+
 
 <br>
 ## Work Experience
 ---
-### Steply AI, Washington DC, Apr 2024 - Present
+### Verulam AI, Washington DC, Apr 2024 - Present
 *Chief Executive Officer*<br>
-- Building a contact center analytics platform that improves operation efficiency by identifying the action sequences in customer service call audio or chat transcripts using AI.
+- Delivering machine learning and advanced analytics support to federal clients.
+<br>
+
+### Steply AI, Washington DC, Apr 2024 - May 2025
+*Chief Executive Officer*<br>
+- Deployed an AI-powered observability platform that enhances contact center efficiency by identifying action sequences in customer service call audio. The platform won the 2024 Create Challenge, an AI competition hosted by Idiap Research Institute in Switzerland.
 <br>
 
 ### Minerva CQ, Sunnyvale CA, Dec 2022 - Mar 2024
 *Vice President, Data Science*<br>
 - Led a team of speech and language processing experts to build real-time conversational AI solutions that enabled contact center agents to help customers more efficiently.
 - Finetuned state-of-the-art, pre-trained automatic speech recognition (ASR) and large language models (LLM) for domain-specific tasks: intent and named entity recognition, sentiment and customer satisfaction classification, summarization, topic modeling, dialog structure induction, retrieval-augmented generation.
+- Partnered with senior leaders across Product and Engineering to align data science roadmaps and user journeys.
 <br>
 
 ### EY-Parthenon, McLean VA, Mar 2022 - Dec 2022
@@ -151,6 +158,7 @@ San Francisco State University, San Francisco, CA
 <br>
 ## Applied AI & Data Science Projects
 ---
+- Built a two-stage citation prediction model (t=0 report metadata; t=60 adds early engagement) showing behavioral signals' lift over static features, enabling interventions at 2 months versus a 2-year historical baseline.
 - Fine-tuned NVIDIA Riva streaming ASR in es-ES with domain-specific audios and corpora, and reduced the word error rate of the existing model in production by 10 percentage points.
 - Developed a first-of-its-kind time series forecasting solution to predict hazardous GIC events with deep learning techniques using a data-centric AI approach, focusing on data quality control throughout the MLOps lifecycle to maintain model accuracy post-deployment.
 - Developed and deployed an application to speed up random assignments in randomized controlled trials (RCTs) with multiple treatments across time and large sample sizes by leveraging parallel computing and MPP databases. Reduced processing time for random assignments of 40MM samples from 48+ hours to ~15 minutes.
