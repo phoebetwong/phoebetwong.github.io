@@ -12,12 +12,12 @@ Data science leader with 10+ years building and scaling teams that deliver high-
 ## Work Experience
 ---
 ### Verulam AI, Washington DC, Apr 2024 - Present
-*Chief Executive Officer*<br>
+*Founder & Principal Data Scientist*<br>
 - Delivering machine learning and advanced analytics support to federal clients.
 <br>
 
 ### Steply AI, Washington DC, Apr 2024 - May 2025
-*Chief Executive Officer*<br>
+*Founder & Technical Lead*<br>
 - Deployed an AI-powered observability platform that enhances contact center efficiency by identifying action sequences in customer service call audio. The platform won the 2024 Create Challenge, an AI competition hosted by Idiap Research Institute in Switzerland.
 <br>
 
